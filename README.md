@@ -1,19 +1,40 @@
-![8-bit Banner](BannerGitHub.png)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Afacad+Flux&weight=600&size=32&duration=4000&pause=1000&color=33A4F7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Dimitar+Terziev!" alt="Typing SVG" />
+</h1>
 
-# Hi there 👋 I'm Dimitar Terziev!
-I'm an international student in Denmark, studying Global Business Engineering with a focus on Software Development. Networking is my passion, and I've dedicated substantial time to homelab projects, exploring the intricate world of network engineering. Right now I'm striving to turn this passion into a career.
+<h3 align="center">A software development student with interests in DevOps and Full-Stack Development</h3>
 
-## 🔭 I’m currently working on:
-- Building intuitive and scalable web hosting platforms as well as my servers/datacenter.
-- Exploring cloud solutions like Nextcloud for storage and data management.
-- Enhancing my front-end development skills with React and Vite.
-## 🌱 I’m currently learning:
-- Advanced full-stack development practices.
-- Experimenting with tools like Power BI for data analysis and visualization.
-- Diving deeper into Networking, Server Management, and Infrastructure.
-## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-terziev/)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)](https://dimitarterziev.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DimitarTerziev_)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+359882707995)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Atomicluster/)
+<br/>
+
+<div align="center">
+  
+  🔭 I’m currently working on a **mobile recipes app**
+  
+  🌱 I’m currently learning **Terraform, AWS, React Native and Redis**
+  
+  🚀 I’m trying to improve my **React and JavaScript** skills
+  
+</div>
+<div align="center">
+  <a href="mailto:dimitarterziev@proton.me">
+  <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/dimitar-terziev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://dimitarterziev.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.reddit.com/user/Atomicluster/" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<h2 align="center">⚒️ Languages, Frameworks or Tools I typically use ⚒️</h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,mysql,html,css,vscode,git,docker,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,github,express,firebase,mongodb,postgresql,cloudflare" />
+  </a>
+</div>
