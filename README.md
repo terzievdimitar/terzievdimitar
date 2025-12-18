@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=Hello%20Visitors" />
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Afacad+Flux&weight=600&size=32&duration=4000&pause=1000&color=33A4F7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Dimitar+Terziev!" alt="Typing SVG" />
 </h1>
@@ -37,4 +39,9 @@
     <img src="https://skillicons.dev/icons?i=react,vite,mysql,html,css,vscode,git,docker,linux" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,github,express,firebase,mongodb,postgresql,cloudflare" />
   </a>
+</div>
+
+<div align="center">
+  <h2> My GitHub Activity Snake 🐍 </h2>
+  <img alt="snake eating my contributions" src="https://github.com/terzievdimitar/terzievdimitar/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
