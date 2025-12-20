@@ -36,12 +36,12 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,mysql,html,css,vscode,git,docker,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=react,vite,html,css,vscode,git,docker,linux" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,github,express,firebase,mongodb,postgresql,cloudflare" />
   </a>
 </div>
 
 <div align="center">
-  <h2> My GitHub Activity Snake 🐍 </h2>
+  <h2> My GitHub Activity 🐍 </h2>
   <img alt="snake eating my contributions" src="https://github.com/terzievdimitar/terzievdimitar/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
